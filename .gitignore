@@ -1,0 +1,6 @@
+*.out
+stl/small.txt
+stl/large.txt
+input.txt
+output.txt
+
