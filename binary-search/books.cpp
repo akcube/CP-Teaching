@@ -2,7 +2,7 @@
 using namespace std;
 
 using ll = long long;
-//#define int ll
+#define int ll
 
 void solve(){
 
